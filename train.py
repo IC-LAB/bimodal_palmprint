@@ -2,7 +2,7 @@
 
 import os
 import numpy as np
-import largeModel as m
+import model as m
 from tqdm import tqdm
 from keras.optimizers import RMSprop
 import matplotlib.pyplot as plt
