@@ -2,7 +2,7 @@
 Code and data for paper "An improved contact-based high-resolution palmprint image acquisition system"
 
 # Database
-1. Google Drive:
+1. Google Drive: https://drive.google.com/file/d/1bo185uIVR0TKLnNQk1h7wDg7q0ydJXPq/view?usp=sharing
 2. Baidu Drive: Fetch Code:
 
 # Remark
