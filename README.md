@@ -3,7 +3,7 @@ Code and data for paper "An improved contact-based high-resolution palmprint ima
 
 # Database
 1. Google Drive: https://drive.google.com/file/d/1bo185uIVR0TKLnNQk1h7wDg7q0ydJXPq/view?usp=sharing
-2. Baidu Drive: Fetch Code:
+2. Baidu Drive: https://pan.baidu.com/s/1BVPECwb4ujqFiJgkNqzcWw Fetch Code: bxdz
 
 # Remark
 The Bimodal Palmprint Database is free to the academic community for research purpose usage only.
